@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.309a80a5.css",
-    "main.js": "/Portfolio/static/js/main.b052b551.js",
+    "main.css": "/Portfolio/static/css/main.58f99c5c.css",
+    "main.js": "/Portfolio/static/js/main.c144c183.js",
     "static/media/Portfolio-template-website.png": "/Portfolio/static/media/Portfolio-template-website.68bea92e61460291fd3f.png",
     "static/media/RoadWay-app.png": "/Portfolio/static/media/RoadWay-app.ffa0e6dcebef28f4bcc1.png",
     "static/media/logo.png": "/Portfolio/static/media/logo.ef7ec201d5614cfde5d3.png",
@@ -18,11 +18,11 @@
     "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
-    "main.309a80a5.css.map": "/Portfolio/static/css/main.309a80a5.css.map",
-    "main.b052b551.js.map": "/Portfolio/static/js/main.b052b551.js.map"
+    "main.58f99c5c.css.map": "/Portfolio/static/css/main.58f99c5c.css.map",
+    "main.c144c183.js.map": "/Portfolio/static/js/main.c144c183.js.map"
   },
   "entrypoints": [
-    "static/css/main.309a80a5.css",
-    "static/js/main.b052b551.js"
+    "static/css/main.58f99c5c.css",
+    "static/js/main.c144c183.js"
   ]
 }
